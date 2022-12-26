@@ -1,0 +1,11 @@
+{
+  "name": "smartminiprinter",
+  "version": "1.0.0",
+  "description": "Cordova plugin for centric smart mini printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irhad Mrndzic",
+  "license": "ISC"
+}
